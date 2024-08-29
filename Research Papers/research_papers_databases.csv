@@ -1,11 +1,30 @@
 Name,URL,Category,Description
-PubMed,https://pubmed.ncbi.nlm.nih.gov/,Research Papers Database,A free resource with over 30 million citations for biomedical literature.
-IEEE Xplore,https://ieeexplore.ieee.org/,Research Papers Database,"A digital library for research in engineering, computer science, and electronics."
-Google Scholar,https://scholar.google.com/,Research Papers Database,A search engine for scholarly literature across many disciplines and sources.
-arXiv,https://arxiv.org/,Research Papers Database,"An open-access repository of electronic preprints in physics, math, and more."
-ScienceDirect,https://www.sciencedirect.com/,Research Papers Database,A website for the publication of scientific and technical research.
-Web of Science,https://www.webofscience.com/,Research Papers Database,A multidisciplinary research database with citation tracking.
-JSTOR,https://www.jstor.org/,Research Papers Database,"A digital library of academic journals, books, and primary sources."
-SpringerLink,https://link.springer.com/,Research Papers Database,Provides access to millions of scientific documents across various disciplines.
-Scopus,https://www.scopus.com/,Research Papers Database,A comprehensive abstract and citation database for scientific research.
-Wiley Online Library,https://onlinelibrary.wiley.com/,Research Papers Database,A large resource of scientific research across multiple disciplines.
+PubMed,https://pubmed.ncbi.nlm.nih.gov,Research Papers Database,Free database of biomedical and life sciences literature.
+Google Scholar,https://scholar.google.com,Research Papers Database,Broad search of scholarly literature across many disciplines.
+IEEE Xplore,https://ieeexplore.ieee.org,Research Papers Database,"Digital library for research papers in electronics, electrical engineering and computer science."
+JSTOR,https://www.jstor.org,Research Papers Database,"Access to thousands of academic journals, books."
+ScienceDirect,https://www.sciencedirect.com,Research Papers Database,Large collection of scientific and technical research articles.
+SpringerLink,https://link.springer.com,Research Papers Database,Comprehensive range of scientific documents including journals and books.
+Wiley Online Library,https://onlinelibrary.wiley.com,Research Papers Database,Wide range of scientific journals and books across many disciplines.
+PLOS ONE,https://journals.plos.org/plosone,Research Papers Database,Open-access journal covering a broad range of scientific disciplines.
+BioRxiv,https://www.biorxiv.org,Research Papers Database,Preprint server for biological sciences.
+arXiv,https://arxiv.org,Research Papers Database,"Repository for preprints in fields such as physics, mathematics, computer science and more."
+ERIC,https://eric.ed.gov,Research Papers Database,Access to education literature and resources.
+PsycINFO,https://www.apa.org/pubs/databases/psycinf,Research Papers Database,Covers literature in psychology and related fields.
+Cochrane Library,https://www.cochranelibrary.com,Research Papers Database,Systematic reviews and evidence-based resources for healthcare.
+Sci-Hub,https://sci-hub.st,Research Papers Database,Provides access to scientific papers for free (note the legal and ethical considerations).
+ResearchGate,https://www.researchgate.net,Research Papers Database,Network where researchers share papers and collaborate.
+Microsoft Academic,https://academic.microsoft.com,Research Papers Database,Free search engine for scholarly literature.
+Directory of Open Access Journals (DOAJ),https://www.doaj.org,Research Papers Database,"Access to high-quality, open-access, peer-reviewed journals."
+Academia.edu,https://www.academia.edu,Research Papers Database,Platform for researchers to share their papers and collaborate.
+PubChem,https://pubchem.ncbi.nlm.nih.gov,Chemical Database,Free chemistry database maintained by NCBI.
+Social Science Research Network (SSRN),https://www.ssrn.com,Research Papers Database,Repository for research in social sciences and humanities.
+Open Access Theses and Dissertations (OATD),https://oatd.org,Theses and Dissertations Database,Indexes open access graduate theses and dissertations.
+Chemical Abstracts Service (CAS),https://www.cas.org,Chemical Database,Comprehensive chemical information (subscription may be required).
+MedlinePlus,https://medlineplus.gov,Health Information Database,"Provides information about health topics, drugs, and medical research."
+PsyArXiv,https://psyarxiv.com,Preprint Server,Preprint server for the psychological sciences.
+Harvard DASH,https://dash.harvard.edu,Institutional Repository,Institutional repository for Harvard University's research outputs.
+MIT DSpace,https://dspace.mit.edu,Institutional Repository,MIT's repository of research and scholarship.
+Zenodo,https://zenodo.org,Open Access Repository,Open-access repository for a wide range of academic research outputs.
+Figshare,https://figshare.com,Research Repository,Allows researchers to upload and share research outputs across disciplines.
+Dryad,https://datadryad.org,Data Repository,Curated resource for datasets across various scientific disciplines.
