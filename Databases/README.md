@@ -1,4 +1,4 @@
-## This repository has a list of resources that are useful in research.
+## This repository has or will have tons of resources helpful in research.
 
 
-## Work on progress.
+## Work in progress.
